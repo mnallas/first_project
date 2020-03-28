@@ -12,6 +12,7 @@ body {
 
 .nav h1 {
     color: whitesmoke;
+    margin: 0px;
     margin-left: 20px;
     align-self: center;
 }
