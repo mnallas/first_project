@@ -18,4 +18,21 @@
     background-color: salmon;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-header h1 {
+    margin: 0;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.card-body {
+    height:300px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 20px;
 }
