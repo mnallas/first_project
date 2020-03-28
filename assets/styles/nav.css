@@ -6,7 +6,7 @@ body {
 .nav {
     display:flex;
     justify-content: space-between;
-    background-color: #27ae60;
+    background-color: #52521c;
     height: 8vh;
 }
 

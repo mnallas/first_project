@@ -1,0 +1,21 @@
+.about {
+    height: 92vh;
+    background-color: peru;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 400px;
+    height: 400px;
+    background-color: royalblue;
+    border-radius: 10px;
+}
+
+.card-header {
+    height: 100px;
+    background-color: salmon;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
